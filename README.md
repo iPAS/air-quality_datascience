@@ -2,6 +2,7 @@
 
 Finding relation between air-quality and the other factors: e.g. traffic in the area.
 
+
 ## Air Quality
 
 * https://api-docs.airvisual.com/
@@ -16,9 +17,15 @@ Finding relation between air-quality and the other factors: e.g. traffic in the 
 
 ### Thai Universities
 
+* Chula https://cusense.net
 * CMU https://www.cmuccdc.org/
 * Thammasat http://airq.colonel-tech.com/
 * Kasetsart https://srakrn.me/aqi/
+
+### Thai Citizen
+
+* http://pm25senses.iottweet.com/
+* https://antoiot.gitbooks.io/th-document/content/example-project/pm25.html
 
 
 ## Traffic
@@ -30,3 +37,9 @@ Finding relation between air-quality and the other factors: e.g. traffic in the 
 ## Wind
 
 * https://api4.windy.com/
+
+
+## Media
+
+* [จะแก้ปัญหาฝุ่นยังไงดี? ประชุมผู้เชี่ยวชาญสาขาต่างๆ เพื่อหาข้อเสนอแนะ](https://www.youtube.com/watch?v=w9GBf81v1qo)
+ โดย [WiTcastThailand.com](https://www.witcastthailand.com/)
