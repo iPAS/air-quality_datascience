@@ -9,6 +9,7 @@ Finding relation between air-quality and the other factors: e.g. traffic in the 
 * https://waqi.info/
 * https://aqicn.org/city/bangkok/
 * https://github.com/openaq/openaq-api
+* https://pm25.lass-net.org/
 
 ### Thai Government
 
